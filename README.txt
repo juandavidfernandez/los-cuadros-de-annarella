@@ -23,3 +23,11 @@ https://mdbootstrap.com/forums/forum/support/
 
 Contact:
 office@mdbootstrap.com
+
+Programador:
+Juan David Fernandez Ordoñez
+
+Contacto del programador:
+ordonezfernandez120@gmail.com
+
+Aprendiendo a crear una web para una exposicion de cuadros.
